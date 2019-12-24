@@ -1,4 +1,4 @@
-FROM centos7.6.1810
+FROM centos
 #指定运行目录
 WORKDIR /root/
 
